@@ -1,3 +1,5 @@
+package HotelReservation;
+
 import java.util.Scanner;
 public class Hotel {
 
